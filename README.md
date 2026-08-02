@@ -1,6 +1,6 @@
 # Hi, I'm Harsh 👋
 
-I'm a Senior Software Engineer from India currently exploring AI Engineering and building applications with Python, LLMs, and FastAPI.
+I'm a Integration Developer working on Streaming data pipelines in Snaplogic and currently exploring AI Engineering and building applications with Python, LLMs, and FastAPI.
 
 Most of my recent work is focused on understanding how modern AI systems work under the hood—building tokenizers, transformers, RAG applications, and local LLM projects.
 
