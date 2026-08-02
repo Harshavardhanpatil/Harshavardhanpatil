@@ -1,9 +1,25 @@
-<h1 align="Left">Hi 👋, I'm Harshavardhan</h1>
-<h3 align="Left">A passionate Integration developer </h3>
+# Hi, I'm Harsh 👋
 
-- 🔭 I’m currently working on **Mulesoft,RAML, C#, .NET, BizTalk**
+I'm a Senior Software Engineer from India currently exploring AI Engineering and building applications with Python, LLMs, and FastAPI.
 
-- 🌱 I’m currently learning **Snaplogic, Azure Data Factory, Logic Apps, SQL**
+Most of my recent work is focused on understanding how modern AI systems work under the hood—building tokenizers, transformers, RAG applications, and local LLM projects.
 
-- 📫 How to reach me **hepatil36@gmail.com**
+### Tech Stack
 
+|           |            |
+| --------- | ---------- |
+| Python    | Docker     |
+| FastAPI   | Git        |
+| LLMs      | GitHub     |
+| LangChain | MongoDB    |
+| Ollama    | PostgreSQL |
+| RAG       | Kafka      |
+
+### Currently Working On
+
+* AI Resume Reviewer
+* Tokenizer from Scratch
+* Transformer from Scratch
+* Local AI Applications
+
+Always learning, always building.
